@@ -56,3 +56,11 @@ void loop() {
     Serial.println(" %");
     delay(2000); // Update every 2 seconds
 }
+# output of task 3 
+![Image](https://github.com/user-attachments/assets/1dee8dc2-427d-481b-a835-f1ceebffdf72)
+
+Temp: 25.6C
+Humid: 60.2%
+
+Temperature: 25.6 °C
+Humidity: 60.2 %
